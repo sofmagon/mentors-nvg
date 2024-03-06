@@ -1,0 +1,82 @@
+{
+	"mentors": [
+		{
+			"name": "John",
+			"last_name": "Doe",
+			"company": "Tech Corp",
+			"job_position": "Software Engineer",
+			"residence_country": "United States",
+			"interest_fields": "Artificial Intelligence, Machine Learning",
+			"expertise_fields": "Python programming, Data Analysis",
+			"linkedin": "https://www.linkedin.com/in/johndoe",
+			"mail": "john.doe@example.com",
+			"number": "123-456-7890",
+			"cv": "cv_mentors/johndoe_cv.pdf"
+		},
+		{
+			"name": "Jane",
+			"last_name": "Smith",
+			"company": "Finance Solutions LLC",
+			"job_position": "Financial Analyst",
+			"residence_country": "Canada",
+			"interest_fields": "Investment Banking, Risk Management",
+			"expertise_fields": "Financial Modeling, Portfolio Management",
+			"linkedin": "https://www.linkedin.com/in/janesmith",
+			"mail": "jane.smith@example.com",
+			"number": "987-654-3210",
+			"cv": "cv_mentors/janesmith_cv.pdf"
+		},
+		{
+			"name": "Gloria",
+			"last_name": "Garcia",
+			"company": "Marketing Solutions Agency",
+			"job_position": "Marketing Manager",
+			"residence_country": "Spain",
+			"interest_fields": "Digital Marketing, Brand Management",
+			"expertise_fields": "Social Media Marketing, Campaign Strategy",
+			"linkedin": "https://www.linkedin.com/in/gloriagarcia",
+			"mail": "g.garcia@example.com",
+			"number": "999-888-7777",
+			"cv": "cv_mentors/sophiagarcia_cv.pdf"
+		},
+		{
+			"name": "Alice",
+			"last_name": "Smith",
+			"company": "Finance Solutions LLC",
+			"job_position": "Financial Analyst",
+			"residence_country": "Canada",
+			"interest_fields": "Investment Banking, Risk Management",
+			"expertise_fields": "Financial Modeling, Portfolio Management",
+			"linkedin": "https://www.linkedin.com/in/alicesmith",
+			"mail": "alice.smith@example.com",
+			"number": "987-654-3210",
+			"cv": "cv_mentors/alicesmith_cv.pdf"
+		},
+		{
+			"name": "Michael",
+			"last_name": "Brown",
+			"company": "Healthcare Solutions Ltd.",
+			"job_position": "Medical Researcher",
+			"residence_country": "Australia",
+			"interest_fields": "Biomedical Engineering, Healthcare Technology",
+			"expertise_fields": "Clinical Trials, Epidemiology",
+			"linkedin": "https://www.linkedin.com/in/michaelbrown",
+			"mail": "michael.brown@example.com",
+			"number": "222-333-4444",
+			"cv": "cv_mentors/michaelbrown_cv.pdf"
+		},
+		{
+			"name": "Emily",
+			"last_name": "Johnson",
+			"company": "Tech Innovations Inc.",
+			"job_position": "Data Scientist",
+			"residence_country": "United Kingdom",
+			"interest_fields": "Machine Learning, Big Data Analytics",
+			"expertise_fields": "Statistical Analysis, Predictive Modeling",
+			"linkedin": "https://www.linkedin.com/in/emilyjohnson",
+			"mail": "emily.johnson@example.com",
+			"number": "555-123-4567",
+			"cv": "cv_mentors/emilyjohnson_cv.pdf"
+		}
+	]
+}
