@@ -12,7 +12,8 @@
 			"linkedin": "https://www.linkedin.com/in/johndoe",
 			"mail": "john.doe@example.com",
 			"number": "123-456-7890",
-			"cv": "cv_mentors/johndoe_cv.pdf"
+			"cv": "cv_mentors/johndoe_cv.pdf",
+			"image": "https://i.ibb.co/zNH3rSb/1.jpg"
 		},
 		{
 			"id": 2,
@@ -26,7 +27,8 @@
 			"linkedin": "https://www.linkedin.com/in/janesmith",
 			"mail": "jane.smith@example.com",
 			"number": "987-654-3210",
-			"cv": "cv_mentors/janesmith_cv.pdf"
+			"cv": "cv_mentors/janesmith_cv.pdf",
+			"image": "https://i.ibb.co/93N0JKF/2.jpg"
 		},
 		{
 			"id": 3,
@@ -40,7 +42,8 @@
 			"linkedin": "https://www.linkedin.com/in/gloriagarcia",
 			"mail": "g.garcia@example.com",
 			"number": "999-888-7777",
-			"cv": "cv_mentors/sophiagarcia_cv.pdf"
+			"cv": "cv_mentors/sophiagarcia_cv.pdf",
+			"image": "https://i.ibb.co/dQRHmCT/3.jpg"
 		},
 		{
 			"id": 4,
@@ -54,7 +57,8 @@
 			"linkedin": "https://www.linkedin.com/in/alicesmith",
 			"mail": "alice.smith@example.com",
 			"number": "987-654-3210",
-			"cv": "cv_mentors/alicesmith_cv.pdf"
+			"cv": "cv_mentors/alicesmith_cv.pdf",
+			"image": "https://i.ibb.co/6D01R4n/4.jpg"
 		},
 		{
 			"id": 5,
@@ -68,7 +72,8 @@
 			"linkedin": "https://www.linkedin.com/in/michaelbrown",
 			"mail": "michael.brown@example.com",
 			"number": "222-333-4444",
-			"cv": "cv_mentors/michaelbrown_cv.pdf"
+			"cv": "cv_mentors/michaelbrown_cv.pdf",
+			"image": "https://i.ibb.co/GJF7CGD/5.jpg"
 		},
 		{
 			"id": 6,
@@ -82,7 +87,8 @@
 			"linkedin": "https://www.linkedin.com/in/emilyjohnson",
 			"mail": "emily.johnson@example.com",
 			"number": "555-123-4567",
-			"cv": "cv_mentors/emilyjohnson_cv.pdf"
+			"cv": "cv_mentors/emilyjohnson_cv.pdf",
+			"image": "https://i.ibb.co/RQZ81Xm/6.jpg"
 		}
 	]
 }
