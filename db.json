@@ -7,14 +7,20 @@
 			"company": "Tech Corp",
 			"job_position": "Software Engineer",
 			"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-			"residence_country": "United States 🇺🇸​",
+			"residence_country": "United States 🇺🇸",
 			"interest_fields": "Artificial Intelligence, Machine Learning",
 			"expertise_fields": "Python programming, Data Analysis",
 			"linkedin": "https://www.linkedin.com/in/johndoe",
-			"mail": "john.doe@example.com",
-			"number": "123-456-7890",
 			"cv": "cv_mentors/johndoe_cv.pdf",
-			"image": "https://i.ibb.co/zNH3rSb/1.jpg"
+			"image": "https://i.ibb.co/zNH3rSb/1.jpg",
+			"programs_related": [
+				{
+					"program_name": "STEM Education Outreach Program"
+				},
+				{
+					"program_name": "Professional Development Workshop Series"
+				}
+			]
 		},
 		{
 			"id": 2,
@@ -23,14 +29,20 @@
 			"company": "Finance Solutions LLC",
 			"job_position": "Financial Analyst",
 			"about": "Mauris feugiat congue magna sed gravida. Sed molestie felis neque, sed egestas dui scelerisque sit amet. Quisque ut imperdiet magna. Curabitur luctus, nisl ac bibendum lacinia, ante lectus pulvinar ipsum, non porta nisi libero in sem. Aenean ac fringilla magna, a tristique purus. Nunc sit amet arcu venenatis, ullamcorper felis sit amet.",
-			"residence_country": "Canada 🇨🇦​",
+			"residence_country": "Canada 🇨🇦",
 			"interest_fields": "Investment Banking, Risk Management",
 			"expertise_fields": "Financial Modeling, Portfolio Management",
 			"linkedin": "https://www.linkedin.com/in/janesmith",
-			"mail": "jane.smith@example.com",
-			"number": "987-654-3210",
 			"cv": "cv_mentors/janesmith_cv.pdf",
-			"image": "https://i.ibb.co/93N0JKF/2.jpg"
+			"image": "https://i.ibb.co/93N0JKF/2.jpg",
+			"programs_related": [
+				{
+					"program_name": "Professional Development Workshop Series"
+				},
+				{
+					"program_name": "Health and Wellness Program"
+				}
+			]
 		},
 		{
 			"id": 3,
@@ -43,10 +55,16 @@
 			"interest_fields": "Digital Marketing, Brand Management",
 			"expertise_fields": "Social Media Marketing, Campaign Strategy",
 			"linkedin": "https://www.linkedin.com/in/gloriagarcia",
-			"mail": "g.garcia@example.com",
-			"number": "999-888-7777",
 			"cv": "cv_mentors/sophiagarcia_cv.pdf",
-			"image": "https://i.ibb.co/dQRHmCT/3.jpg"
+			"image": "https://i.ibb.co/dQRHmCT/3.jpg",
+			"programs_related": [
+				{
+					"program_name": "Community Volunteer Project"
+				},
+				{
+					"program_name": "Health and Wellness Program"
+				}
+			]
 		},
 		{
 			"id": 4,
@@ -59,10 +77,16 @@
 			"interest_fields": "Investment Banking, Risk Management",
 			"expertise_fields": "Financial Modeling, Portfolio Management",
 			"linkedin": "https://www.linkedin.com/in/alicesmith",
-			"mail": "alice.smith@example.com",
-			"number": "987-654-3210",
 			"cv": "cv_mentors/alicesmith_cv.pdf",
-			"image": "https://i.ibb.co/6D01R4n/4.jpg"
+			"image": "https://i.ibb.co/6D01R4n/4.jpg",
+			"programs_related": [
+				{
+					"program_name": "Summer Internship Program"
+				},
+				{
+					"program_name": "Health and Wellness Program"
+				}
+			]
 		},
 		{
 			"id": 5,
@@ -75,10 +99,16 @@
 			"interest_fields": "Biomedical Engineering, Healthcare Technology",
 			"expertise_fields": "Clinical Trials, Epidemiology",
 			"linkedin": "https://www.linkedin.com/in/michaelbrown",
-			"mail": "michael.brown@example.com",
-			"number": "222-333-4444",
 			"cv": "cv_mentors/michaelbrown_cv.pdf",
-			"image": "https://i.ibb.co/GJF7CGD/5.jpg"
+			"image": "https://i.ibb.co/GJF7CGD/5.jpg",
+			"programs_related": [
+				{
+					"program_name": "Summer Internship Program"
+				},
+				{
+					"program_name": "STEM Education Outreach Program"
+				}
+			]
 		},
 		{
 			"id": 6,
@@ -91,10 +121,16 @@
 			"interest_fields": "Machine Learning, Big Data Analytics",
 			"expertise_fields": "Statistical Analysis, Predictive Modeling",
 			"linkedin": "https://www.linkedin.com/in/emilyjohnson",
-			"mail": "emily.johnson@example.com",
-			"number": "555-123-4567",
 			"cv": "cv_mentors/emilyjohnson_cv.pdf",
-			"image": "https://i.ibb.co/RQZ81Xm/6.jpg"
+			"image": "https://i.ibb.co/RQZ81Xm/6.jpg",
+			"programs_related": [
+				{
+					"program_name": "Summer Internship Program"
+				},
+				{
+					"program_name": "Health and Wellness Program"
+				}
+			]
 		}
 	]
 }
